@@ -1,0 +1,1 @@
+# Fog aware density evaluator
