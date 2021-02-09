@@ -5,4 +5,6 @@
 
 ### Implementation details
 * assume transmission in local patch omega(x) is constant
+* Not good prior for sky regions but transmission is zero so( as its same as atmospheric light)
+
 
