@@ -14,7 +14,7 @@ I(x)=J(X).t(x)+A(1-t(x))
 * J(x).t(x) close to 0 when t(x)->0
 * A is most haze opaqe iamge estamated as 0.1% of the brightest pixel in dark prior , which has highest intensity in image I
 * To compact blocking effects soft matting
-##### soft matting
+**soft matting**
 
 
 
