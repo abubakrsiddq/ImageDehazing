@@ -1,1 +1,0 @@
-### Sample no haze images
