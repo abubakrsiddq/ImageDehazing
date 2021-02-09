@@ -4,5 +4,5 @@
 * Intensity of dark channel intensity of haze
 
 ### Implementation details
-* assume transmission in local patch \omega(x) is constant
+* assume transmission in local patch omega(x) is constant
 
