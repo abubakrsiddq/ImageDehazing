@@ -1,1 +1,0 @@
-# NATURAL QUALITY index
