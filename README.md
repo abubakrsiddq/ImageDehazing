@@ -5,8 +5,6 @@
 - [x] Dehazenet model
 - [x] GCA code
 - [x] Dataset Loader script
-- [ ] DeHazeNet Training
-- [ ] GCA commenting
-- [ ] BPP
+- [x] DeHazeNet Training
 - [x] [Make Presentation](https://docs.google.com/presentation/d/183MUhIXfW0YKWMM8UqMhUjYGpJbU1W6hkctT-o8tyxo/edit?usp=sharing)
-- [ ] cycle Gan
+- [ ] Preprocess according to vgg
