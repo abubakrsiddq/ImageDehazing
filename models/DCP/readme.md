@@ -1,5 +1,5 @@
-# Dark channel Prior
-
+# [Dark channel Prior](https://sci-hub.se/10.1109/CVPR.2009.5206515)
+## [NOTEBOOK](https://nbviewer.jupyter.org/github/abubakrsiddq/ImageDehazing/blob/main/models/DCP/darkChannelPrior.ipynb)
 ### Transmission map
 I(x)=J(X).t(x)+A(1-t(x))
 
