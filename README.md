@@ -1,10 +1,10 @@
 # ImageDehazing
 ## MIT Final Year project
 
-| metrics  | GT |Haze|
-| ------------- | ------------- |------------- |
-| FADE  |  ||
-| NQIE |   ||
+| metrics  | GT |Haze|LCA|
+| ------------- | ------------- |------------- |------------- |
+| FADE  |  |0.7486||
+| NQIE |   |2.6513||
 
 
 <div class="timeline">
