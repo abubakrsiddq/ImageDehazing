@@ -1,6 +1,12 @@
 # ImageDehazing
 ## MIT Final Year project
 
+| Model  | NIQE |
+| ------------- | ------------- |
+| DEHAZE NET  |  |
+| LCA  |   |
+
+
 <div class="timeline">
   <div class="container left">
     <div class="content">
