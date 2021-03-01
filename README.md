@@ -1,10 +1,10 @@
 # ImageDehazing
 ## MIT Final Year project
 
-| Model  | NIQE |
-| ------------- | ------------- |
-| DEHAZE NET  |  |
-| LCA  |   |
+| metrics  | GT |Haze|
+| ------------- | ------------- |------------- |
+| FADE  |  ||
+| NQIE |   ||
 
 
 <div class="timeline">
