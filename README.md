@@ -6,7 +6,7 @@
 | FADE  |0.3597|0.7975||
 | NQIE |2.8509|2.6513||
 |CEIQ |3.2714|3.1599||
-|Bliinds2|12.7444|16.2||
+|Bliinds2 score|12.7444|16.2||
 
 <div class="timeline">
   <div class="container left">
@@ -43,4 +43,6 @@
 - [x] Dataset Loader script
 - [x] DeHazeNet Training
 - [x] [Make Presentation](https://docs.google.com/presentation/d/183MUhIXfW0YKWMM8UqMhUjYGpJbU1W6hkctT-o8tyxo/edit?usp=sharing)
-- [ ] Preprocess according to vgg
+- [ ] Metrics compare
+- [ ] choose base model
+
