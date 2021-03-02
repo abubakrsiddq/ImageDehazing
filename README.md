@@ -6,7 +6,7 @@
 | FADE  |0.3597|0.7486||
 | NQIE |2.8509|2.6513||
 |CEIQ |3.2714|3.1599||
-
+|Bliinds2|12.7444|||
 
 <div class="timeline">
   <div class="container left">
