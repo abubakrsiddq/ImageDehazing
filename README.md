@@ -3,10 +3,10 @@
 
 | metrics  | GT |Haze|LCA|
 | ------------- | ------------- |------------- |------------- |
-| FADE  |0.3597|0.7486||
+| FADE  |0.3597|0.7975||
 | NQIE |2.8509|2.6513||
 |CEIQ |3.2714|3.1599||
-|Bliinds2|12.7444|||
+|Bliinds2|12.7444|16.2||
 
 <div class="timeline">
   <div class="container left">
