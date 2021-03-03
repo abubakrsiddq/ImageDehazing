@@ -1,12 +1,40 @@
 # ImageDehazing
 ## MIT Final Year project
 
-| metrics  | GT |Haze|LCA|
-| ------------- | ------------- |------------- |------------- |
+| metrics  | GT |Haze|LCA|DehazeNet|
+| ------------- | ------------- |------------- |------------- |------------- |
 | FADE  |0.3597|0.7975||
 | NQIE |2.8509|2.6513||
 |CEIQ |3.2714|3.1599||
 |Bliinds2 score|12.7444|16.2||
+
+<table style="width:100%">
+  <tr>
+    <th>Metrics</th>
+    <th>GT/th>
+    <th>hazy</th>
+    <th>LCA</th>
+    <th>Dehazenet(40)</th>
+  </tr>
+  <tr>
+    <td>0.3597</td>
+    <td>0.7975</td>
+    <td></td>
+    <td>0.5130</td>
+  </tr>
+  <tr>
+    <td>2.8509</td>
+    <td>2.6513</td>
+    <td></td>
+    <td>2.7238</td>
+  </tr>
+  <tr>
+    <td>12.744</td>
+    <td>16.2</td>
+    <td></td>
+    <td>16.94</td>
+  </tr>
+  </table>
 
 <div class="timeline">
   <div class="container left">
