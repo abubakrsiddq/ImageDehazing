@@ -10,6 +10,7 @@
     <th>hazy</th>
     <th>LCA</th>
     <th>DehazeNet(40)</th>
+    <th>DCP</th>
   </tr>
   
   <tr>
@@ -18,6 +19,7 @@
     <td>0.7975</td>
     <td></td>
     <td>0.5130</td>
+  <td>0.3482</td>
   </tr>
   <tr>
     <td>NQIE</td>
@@ -25,6 +27,7 @@
     <td>2.6513</td>
     <td></td>
     <td>2.7238</td>
+    <td>2.662</td>
   </tr>
   
   <tr>
@@ -33,6 +36,7 @@
     <td>3.159</td>
     <td></td>
     <td>3.045</td>
+    <td>2.7513</td>
   </tr>
   <tr>
     <td>BLIINDS2</td>
@@ -40,6 +44,7 @@
     <td>16.2</td>
     <td></td>
     <td>16.94</td>
+    <td>17.6778</td>
   </tr>
   </table>
 
