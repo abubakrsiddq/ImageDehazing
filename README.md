@@ -79,7 +79,7 @@
 <div class="container left">
     <div class="content">
       <h2>WEEK 4</h2>
-      <p>Compare different models based on NR IRA methods such as FADE, NQIE, BLIINDS, CEIQ. Wrote code in matlab to generate the output of the models on ohaze  dataset.</p>
+      <p>Compare different models based on NR IQA methods such as FADE, NQIE, BLIINDS, CEIQ. Wrote code in matlab to generate the output of the models on ohaze  dataset.</p>
     </div>
   </div>
  
