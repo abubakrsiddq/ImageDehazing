@@ -35,7 +35,7 @@
     <td>3.2714</td>
     <td>3.159</td>
     <td></td>
-    <td>3.045</td>
+    <td> <span style='font-weight: bold;'>3.045</span></td>
     <td>2.7513</td>
   </tr>
   <tr>
