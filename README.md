@@ -70,7 +70,16 @@
   <div class="container left">
     <div class="content">
       <h2>WEEK 3</h2>
-      <p>Started developing basic architecture based on simple networks such as LCA.</p>
+      <p>Started developing basic architecture based on simple networks such as LCA and wrote code for GCA, GMAN, dehazenet.</p>
+    </div>
+  </div>
+ 
+</div>
+
+<div class="container left">
+    <div class="content">
+      <h2>WEEK 4</h2>
+      <p>Compare different models based on NR IRA methods such as FADE, NQIE, BLIINDS, CEIQ. Wrote code in matlab to generate the output of the models on ohaze  dataset.</p>
     </div>
   </div>
  
@@ -83,6 +92,6 @@
 - [x] Dataset Loader script
 - [x] DeHazeNet Training
 - [x] [Make Presentation](https://docs.google.com/presentation/d/183MUhIXfW0YKWMM8UqMhUjYGpJbU1W6hkctT-o8tyxo/edit?usp=sharing)
-- [ ] Metrics compare
+- [x] Metrics compare
 - [ ] choose base model
 
