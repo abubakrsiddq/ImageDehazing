@@ -19,7 +19,7 @@
     <td>0.7975</td>
     <td></td>
     <td>0.5130</td>
-  <td>0.3482</td>
+  <td><b>0.3482</b></td>
   </tr>
   <tr>
     <td>NQIE</td>
@@ -35,7 +35,7 @@
     <td>3.2714</td>
     <td>3.159</td>
     <td></td>
-    <td> <span style='font-weight: bold;'>3.045</span></td>
+    <td> <b>3.045</b></td>
     <td>2.7513</td>
   </tr>
   <tr>
