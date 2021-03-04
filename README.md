@@ -13,7 +13,27 @@
     <th>DCP</th>
     <th>GMAN</th>
   </tr>
-  
+  <tr>
+    <td>PSNR</td>
+    <td>-</td>
+    <td>14.52</td>
+    <td></td>
+    <td><b>12.07</b></td>
+    <td>11.92</td>
+    <td>12.05</td>
+    
+   </tr>
+    <tr>
+    <td>SSIM</td>
+    <td>-</td>
+    <td>0.66</td>
+    <td></td>
+    <td>0.1728</td>
+    <td>0.169</td>
+  <td><b>0.18</b></td>
+    
+   </tr>
+   
   <tr>
     <td>FADE</td>
     <td>0.3597</td>
