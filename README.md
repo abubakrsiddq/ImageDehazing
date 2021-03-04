@@ -11,6 +11,7 @@
     <th>LCA</th>
     <th>DehazeNet(40)</th>
     <th>DCP</th>
+    <th>GMAN</th>
   </tr>
   
   <tr>
@@ -20,6 +21,7 @@
     <td></td>
     <td>0.5130</td>
   <td><b>0.3482</b></td>
+    <td>0.6574</td>
   </tr>
   <tr>
     <td>NQIE</td>
@@ -27,7 +29,8 @@
     <td>2.6513</td>
     <td></td>
     <td>2.7238</td>
-    <td><b>2.662</b></td>
+    <td>2.662</td>
+  <td><b>2.5453</b></td>
   </tr>
   
   <tr>
@@ -35,8 +38,9 @@
     <td>3.2714</td>
     <td>3.159</td>
     <td></td>
-    <td> <b>3.045</b></td>
+    <td> 3.045</td>
     <td>2.7513</td>
+  <td><b>3.1598</b></td>
   </tr>
   <tr>
     <td>BLIINDS2</td>
@@ -45,6 +49,7 @@
     <td></td>
     <td><b>16.94</b></td>
     <td>17.6778</td>
+  <td>17.3222</td>
   </tr>
   </table>
 
