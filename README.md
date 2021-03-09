@@ -16,7 +16,7 @@
   <tr>
     <td>PSNR</td>
     <td>-</td>
-    <td>14.52</td>
+    <td>9.62</td>
     <td><b>20.96</b></td>
     <td>17.5</td>
     <td>11.92</td>
@@ -26,7 +26,7 @@
     <tr>
     <td>SSIM</td>
     <td>-</td>
-    <td>0.66</td>
+    <td>0.166</td>
   <td><b>0.75</b></td>
     <td>0.69</td>
     <td>0.169</td>
