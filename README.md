@@ -6,8 +6,7 @@
 <table style="width:100%">
   <tr>
     <th>Metrics</th>
-    <th>GT</th>
-    <th>hazy</th>
+   
     <th>LCA</th>
     <th>DehazeNet(40)</th>
     <th>DCP</th>
@@ -15,8 +14,7 @@
   </tr>
   <tr>
     <td>PSNR</td>
-    <td>-</td>
-    <td>9.62</td>
+    
     <td><b>20.96</b></td>
     <td>17.5</td>
     <td>11.92</td>
@@ -25,8 +23,7 @@
    </tr>
     <tr>
     <td>SSIM</td>
-    <td>-</td>
-    <td>0.166</td>
+   
   <td><b>0.75</b></td>
     <td>0.69</td>
     <td>0.169</td>
@@ -36,8 +33,7 @@
    
   <tr>
     <td>FADE</td>
-    <td>0.3597</td>
-    <td>0.7975</td>
+    
     <td>0.8163</td>
     <td>0.5130</td>
   <td><b>0.3482</b></td>
@@ -45,8 +41,7 @@
   </tr>
   <tr>
     <td>NQIE</td>
-    <td>2.8509</td>
-    <td>2.6513</td>
+   
     <td>5.4881</td>
     <td>2.7238</td>
     <td>2.662</td>
@@ -55,8 +50,7 @@
   
   <tr>
     <td>CEIQ</td>
-    <td>3.2714</td>
-    <td>3.159</td>
+   
     <td>3.0446</td>
     <td> 3.045</td>
     <td>2.7513</td>
@@ -64,8 +58,7 @@
   </tr>
   <tr>
     <td>BLIINDS2</td>
-    <td>12.744</td>
-    <td>16.2</td>
+    
     <td>53.0667</td>
     <td><b>16.94</b></td>
     <td>17.6778</td>
