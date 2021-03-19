@@ -51,17 +51,17 @@
   <tr>
     <td>CEIQ</td>
        <td>3.27</td>
-    <td> 3.33</td>
+    <td><b> 3.33</b></td>
   <td>3.25</td>
     <td>3.19</td>
-  <td><b>3.22</b></td>
+  <td>3.22</td>
   </tr>
   <tr>
     <td>BLIINDS2</td>
        <td>49.69</td>
-    <td><b>23.5</b></td>
+    <td>23.5</td>
   <td>35.5</td>
-    <td>17.39</td>
+    <td><b>17.39</b></td>
   <td>26.42</td>
   </tr>
   </table>
