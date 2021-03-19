@@ -37,15 +37,15 @@
     <td>0.500</td>
   <td></td>
   <td><b>0.3883</b></td>
-    <td>0.6574</td>
+    <td>0.645</td>
   </tr>
   <tr>
     <td>NQIE</td>
        <td>4.42</td>
-    <td>2..93</td>
+    <td>2.93</td>
   <td></td>
     <td>2.847</td>
-  <td><b>2.5453</b></td>
+  <td><b>2.70</b></td>
   </tr>
   
   <tr>
@@ -54,7 +54,7 @@
     <td> 3.33</td>
   <td></td>
     <td>3.19</td>
-  <td><b>3.1598</b></td>
+  <td><b>3.22</b></td>
   </tr>
   <tr>
     <td>BLIINDS2</td>
@@ -62,7 +62,7 @@
     <td><b>23.5</b></td>
   <td></td>
     <td>17.39</td>
-  <td>17.3222</td>
+  <td>26.42</td>
   </tr>
   </table>
 
