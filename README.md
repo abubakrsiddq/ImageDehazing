@@ -7,8 +7,8 @@
   <tr>
     <th>Metrics</th>
      <th>LCA</th>
-    <th>DehazeNet(50)</th>
-    <th>DehazeNet_withAttention</th>
+    <th>DehazeNet(40)</th>
+    <th>Dhz_Att</th>
     <th>DCP</th>
     <th>GMAN</th>
   </tr>
@@ -35,7 +35,7 @@
     <td>FADE</td>
        <td>0.9542</td>
     <td>0.500</td>
-  <td></td>
+  <td>0.87</td>
   <td><b>0.3883</b></td>
     <td>0.645</td>
   </tr>
@@ -43,7 +43,7 @@
     <td>NQIE</td>
        <td>4.42</td>
     <td>2.93</td>
-  <td></td>
+  <td>3.12</td>
     <td>2.847</td>
   <td><b>2.70</b></td>
   </tr>
@@ -52,7 +52,7 @@
     <td>CEIQ</td>
        <td>3.27</td>
     <td> 3.33</td>
-  <td></td>
+  <td>3.25</td>
     <td>3.19</td>
   <td><b>3.22</b></td>
   </tr>
@@ -60,7 +60,7 @@
     <td>BLIINDS2</td>
        <td>49.69</td>
     <td><b>23.5</b></td>
-  <td></td>
+  <td>35.5</td>
     <td>17.39</td>
   <td>26.42</td>
   </tr>
