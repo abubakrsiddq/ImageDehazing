@@ -3,6 +3,8 @@
 
 ### [NoteBook's Link](https://nbviewer.jupyter.org/github/abubakrsiddq/ImageDehazing/tree/main/)
 
+## Comparision of present models
+
 <table style="width:100%">
   <tr>
     <th>Metrics</th>
