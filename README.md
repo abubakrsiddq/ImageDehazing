@@ -8,14 +8,14 @@
 <table style="width:100%">
   <tr>
     <th>Metrics</th>
-     <th>LCA</th>
-    <th>DehazeNet(40)</th>
-    <th>Dhz_Att</th>
-    <th>DCP</th>
-    <th>GMAN</th>
-    <th>GCA(30)</th>
-    <th>FFA(10)</th>
-    <th>U-net</th>
+     <th><a href="models/LCA-net">LCA</a></th>
+    <th><a href="models/DeHazenet">DehazeNet(40)</a></th>
+    <th><a href="models/dehazenet_attention">Dhz_Att</a></th>
+    <th><a href="models/DCP">DCP</a></th>
+    <th><a href="models/GMAN_net">GMAN</a></th>
+    <th><a href="models/GCA-net">GCA(30)</a></th>
+    <th><a href="models/FFA-net">FFA(10)</a></th>
+    <th><a href="models/unet">U-net</a></th>
   </tr>
   <tr>
     <td>PSNR</td>
