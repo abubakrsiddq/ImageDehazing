@@ -15,6 +15,7 @@
     <th>GMAN</th>
     <th>GCA(30)</th>
     <th>FFA(10)</th>
+    <th>U-net</th>
   </tr>
   <tr>
     <td>PSNR</td>
@@ -25,6 +26,7 @@
     <td>14.8</td>
     <td>20.13</td>
     <td><b>20.67</b></td>
+    <td>19.38</td>
    </tr>
     <tr>
     <td>SSIM</td>
@@ -35,6 +37,7 @@
   <td>0.64</td>
      <td>0.77</td>
       <td><b>0.79</b></td>
+      <td>0.73</td>
    </tr>
    
   <tr>
@@ -46,6 +49,7 @@
     <td>0.645</td>
   <td>0.91</td>
   <td>1.24</td>
+  <td>0.68</td>
   </tr>
   <tr>
     <td>NQIE</td>
@@ -56,6 +60,7 @@
   <td>2.70</td>
   <td>2.7</td>
   <td><b>2.67</b></td>
+  <td>3.71</td>
   </tr>
   
   <tr>
@@ -67,6 +72,7 @@
   <td>3.22</td>
   <td>3.22</td>
   <td><b>3.42</b></td>
+  <td>3.4</td>
   </tr>
   <tr>
     <td>BLIINDS2</td>
@@ -77,6 +83,7 @@
   <td>26.42</td>
   <td>27.5</td>
   <td>24.4</td>
+  <td>39.11</td>
   </tr>
   </table>
 
