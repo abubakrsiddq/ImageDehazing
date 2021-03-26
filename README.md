@@ -33,9 +33,9 @@
   <td>0.67</td>
     <td>0.61</td>
   <td>0.64</td>
-     <td>0.77<td>
+     <td>0.77</td>
       <td><b>0.79</b></td>
-       </tr>
+   </tr>
    
   <tr>
     <td>FADE</td>
