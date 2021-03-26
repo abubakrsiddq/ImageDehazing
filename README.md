@@ -13,7 +13,8 @@
     <th>Dhz_Att</th>
     <th>DCP</th>
     <th>GMAN</th>
-    <th>GCA</th>
+    <th>GCA(30)</th>
+    <th>FFA(10)</th>
   </tr>
   <tr>
     <td>PSNR</td>
@@ -22,7 +23,8 @@
     <td>17.00</td>
     <td>12.21</td>
     <td>14.8</td>
-    <td><b>20.13</b></td>
+    <td>20.13</td>
+    <td><b>20.67</b></td>
    </tr>
     <tr>
     <td>SSIM</td>
@@ -31,9 +33,9 @@
   <td>0.67</td>
     <td>0.61</td>
   <td>0.64</td>
-     <td><b>0.77</b><td>
-    
-   </tr>
+     <td>0.77<td>
+      <td><b>0.79</b></td>
+       </tr>
    
   <tr>
     <td>FADE</td>
@@ -43,6 +45,7 @@
   <td><b>0.3883</b></td>
     <td>0.645</td>
   <td>0.91</td>
+  <td>1.24</td>
   </tr>
   <tr>
     <td>NQIE</td>
@@ -50,19 +53,20 @@
     <td>2.93</td>
   <td>3.12</td>
     <td>2.847</td>
-  <td><b>2.70</b></td>
-  <td><b>2.7</b></td>
+  <td>2.70</td>
+  <td>2.7</td>
+  <td><b>2.67</b></td>
   </tr>
   
   <tr>
     <td>CEIQ</td>
        <td>3.27</td>
-    <td><b> 3.33</b></td>
+    <td>3.33</td>
   <td>3.25</td>
     <td>3.19</td>
   <td>3.22</td>
   <td>3.22</td>
-  
+  <td><b>3.42</b></td>
   </tr>
   <tr>
     <td>BLIINDS2</td>
@@ -72,6 +76,7 @@
     <td><b>17.39</b></td>
   <td>26.42</td>
   <td>27.5</td>
+  <td>24.4</td>
   </tr>
   </table>
 
