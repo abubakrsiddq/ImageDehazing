@@ -6,3 +6,4 @@
 * [NTIRE solution 2](https://openaccess.thecvf.com/content_CVPRW_2019/papers/NTIRE/Ancuti_NTIRE_2019_Image_Dehazing_Challenge_Report_CVPRW_2019_paper.pdf)
 * [Multi-Stage Progressive Image Restoration](https://arxiv.org/pdf/2102.02808v2.pdf)
 * [CycleISP: Real Image Restoration via Improved Data Synthesis](https://arxiv.org/pdf/2003.07761v1.pdf)
+* [Loss Function](https://arxiv.org/pdf/1511.08861.pdf)
