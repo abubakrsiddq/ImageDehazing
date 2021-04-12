@@ -9,4 +9,5 @@
 * [CycleISP: Real Image Restoration via Improved Data Synthesis](https://arxiv.org/pdf/2003.07761v1.pdf)
 * [Loss Function](https://arxiv.org/pdf/1511.08861.pdf)
 * [Guided filter](http://kaiminghe.com/publications/pami12guidedfilter.pdf)
-* [Dehaze img restoartion](https://sci-hub.se/10.23919/apsipa.2018.8659733)
+* [Dehaze image restoartion](https://sci-hub.se/10.23919/apsipa.2018.8659733)
+* [molti layer fusion](https://openaccess.thecvf.com/content_ICCV_2019/papers/Deng_Deep_Multi-Model_Fusion_for_Single-Image_Dehazing_ICCV_2019_paper.pdf)
