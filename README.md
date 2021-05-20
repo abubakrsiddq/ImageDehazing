@@ -2,8 +2,8 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/lca-net-light-convolutional-autoencoder-for/image-dehazing-on-reside)](https://paperswithcode.com/sota/image-dehazing-on-reside?p=lca-net-light-convolutional-autoencoder-for)
 # ImageDehazing
 ## MIT Final Year project
-# [Mid Term ppt](https://docs.google.com/presentation/d/1lh0HemSqFtY5YaGahqMierKy8UcxPl8gQvWv2v0cvts/edit#slide=id.gc6f980f91_0_0)
-### [NoteBook's Link](https://nbviewer.jupyter.org/github/abubakrsiddq/ImageDehazing/tree/main/)
+
+#### [NoteBook's Link](https://nbviewer.jupyter.org/github/abubakrsiddq/ImageDehazing/tree/main/)
 
 ## Comparision of present models on RESIDE
 
@@ -88,51 +88,4 @@
   <td>39.11</td>
   </tr>
   </table>
-
-<div class="timeline">
-  <div class="container left">
-    <div class="content">
-       <h1>TIMELINE</h1>
-        </div>
-  </div>
-  <div class="container left">
-    <div class="content">
-      <h2>WEEK 1</h2>
-      <p>Studied literature of dehazing, paper on DCP, dehazenet, BPP, GCA, FFA,etc</p>
-    </div>
-  </div>
-  <div class="container right">
-    <div class="content">
-      <h2>WEEK 2</h2>
-      <p>Implemented a dataset loader and implemented some preprocessing technique.
-       Wrote code for DCP and dehaze net from research paper.</p>
-    </div>
-  </div>
-  <div class="container left">
-    <div class="content">
-      <h2>WEEK 3</h2>
-      <p>Started developing basic architecture based on simple networks such as LCA and wrote code for GCA, GMAN, dehazenet.</p>
-    </div>
-  </div>
- 
-</div>
-
-<div class="container left">
-    <div class="content">
-      <h2>WEEK 4</h2>
-      <p>Compare different models based on NR IQA methods such as FADE, NQIE, BLIINDS, CEIQ. Wrote code in matlab to generate the output of the models on ohaze  dataset.</p>
-    </div>
-  </div>
- 
-</div>
-
-#### Tasks
-- [x] DCP 
-- [x] Dehazenet model
-- [x] GCA code
-- [x] Dataset Loader script
-- [x] DeHazeNet Training
-- [x] [Make Presentation](https://docs.google.com/presentation/d/183MUhIXfW0YKWMM8UqMhUjYGpJbU1W6hkctT-o8tyxo/edit?usp=sharing)
-- [x] Metrics compare
-- [ ] choose base model
 
