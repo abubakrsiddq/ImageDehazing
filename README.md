@@ -51,7 +51,7 @@
    
   <tr>
     <td>FADE</td>
-             <td></td>
+             <td>1.1211</td>
     <td></td>
     <td></td>
     <td></td>
@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td>NQIE</td>
-             <td></td>
+             <td>2.75</td>
     <td></td>
     <td></td>
     <td></td>
@@ -78,7 +78,7 @@
   
   <tr>
     <td>CEIQ</td>
-             <td></td>
+             <td>3.143</td>
     <td></td>
     <td></td>
     <td></td>
@@ -91,7 +91,7 @@
   </tr>
   <tr>
     <td>BLIINDS2</td>
-             <td></td>
+             <td>6.23</td>
     <td></td>
     <td></td>
     <td></td>
