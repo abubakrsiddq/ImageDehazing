@@ -1,11 +1,124 @@
  	
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/lca-net-light-convolutional-autoencoder-for/image-dehazing-on-reside)](https://paperswithcode.com/sota/image-dehazing-on-reside?p=lca-net-light-convolutional-autoencoder-for)
 # ImageDehazing
-## MIT Final Year project
+ MIT Final Year project
 
-#### [NoteBook's Link](https://nbviewer.jupyter.org/github/abubakrsiddq/ImageDehazing/tree/main/)
+[NoteBook's Link](https://nbviewer.jupyter.org/github/abubakrsiddq/ImageDehazing/tree/main/)
 
-## Comparision of present models on RESIDE
+##### Comparision on KITTI
+<table>
+ <tr>
+  <th>Metrics</th>
+  <th><a >Hazy</a></th>
+   <th><a href="models/LCA-net">LCA</a></th>
+    <th><a href="models/DeHazenet">DehazeNet(40)</a></th>
+    <th><a href="models/dehazenet_attention">Dhz_Att</a></th>
+    <th><a href="models/DCP">DCP</a></th>
+    <th><a href="models/GMAN_net">GMAN</a></th>
+    <th><a href="models/GCA-net">GCA(30)</a></th>
+    <th><a href="models/FFA-net">FFA(10)</a></th>
+    <th><a href="models/unet">U-net</a></th>
+  <th><a href="models/novel">Novel</a></th>
+  
+  
+  </tr>
+   <tr>
+    <td>PSNR</td>
+      <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+   </tr>
+    <tr>
+    <td>SSIM</td>
+       <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>   
+     <td></td>
+ </tr>
+   
+  <tr>
+    <td>FADE</td>
+             <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+   <td></td>
+  </tr>
+  <tr>
+    <td>NQIE</td>
+             <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+   <td></td>
+  </tr>
+  
+  <tr>
+    <td>CEIQ</td>
+             <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+   <td></td>
+  </tr>
+  <tr>
+    <td>BLIINDS2</td>
+             <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+   <td></td>
+  </tr>
+ </table>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+##### Comparision of present models on RESIDE
 
 <table style="width:100%">
   <tr>
@@ -18,6 +131,7 @@
     <th><a href="models/GCA-net">GCA(30)</a></th>
     <th><a href="models/FFA-net">FFA(10)</a></th>
     <th><a href="models/unet">U-net</a></th>
+   
   </tr>
   <tr>
     <td>PSNR</td>
