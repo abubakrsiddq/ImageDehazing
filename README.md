@@ -33,7 +33,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>31.35</td>
    </tr>
     <tr>
     <td>SSIM</td>
@@ -46,7 +46,7 @@
     <td></td>
     <td></td>
     <td></td>   
-     <td></td>
+     <td>0.946</td>
  </tr>
    
   <tr>
