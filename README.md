@@ -5,7 +5,7 @@
 # [Mid Term ppt](https://docs.google.com/presentation/d/1lh0HemSqFtY5YaGahqMierKy8UcxPl8gQvWv2v0cvts/edit#slide=id.gc6f980f91_0_0)
 ### [NoteBook's Link](https://nbviewer.jupyter.org/github/abubakrsiddq/ImageDehazing/tree/main/)
 
-## Comparision of present models
+## Comparision of present models on RESIDE
 
 <table style="width:100%">
   <tr>
