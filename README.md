@@ -25,7 +25,7 @@
    <tr>
     <td>PSNR</td>
       <td>15.66</td>
-    <td></td>
+    <td>18.32</td>
     <td></td>
     <td></td>
     <td></td>
@@ -38,7 +38,7 @@
     <tr>
     <td>SSIM</td>
        <td>0.7349</td>
-    <td></td>
+    <td>0.69</td>
     <td></td>
     <td></td>
     <td></td>
@@ -52,7 +52,7 @@
   <tr>
     <td>FADE</td>
              <td>1.1211</td>
-    <td></td>
+    <td>0.6348</td>
     <td></td>
     <td></td>
     <td></td>
@@ -65,7 +65,7 @@
   <tr>
     <td>NQIE</td>
              <td>2.75</td>
-    <td></td>
+    <td>4.36</td>
     <td></td>
     <td></td>
     <td></td>
@@ -79,7 +79,7 @@
   <tr>
     <td>CEIQ</td>
              <td>3.143</td>
-    <td></td>
+    <td>3.021</td>
     <td></td>
     <td></td>
     <td></td>
@@ -92,7 +92,7 @@
   <tr>
     <td>BLIINDS2</td>
              <td>6.23</td>
-    <td></td>
+    <td>40.8</td>
     <td></td>
     <td></td>
     <td></td>
