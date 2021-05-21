@@ -28,7 +28,7 @@
     <td>18.32</td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>16.65</td>
     <td></td>
     <td></td>
     <td></td>
@@ -41,7 +41,7 @@
     <td>0.69</td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>0.618</td>
     <td></td>
     <td></td>
     <td></td>
