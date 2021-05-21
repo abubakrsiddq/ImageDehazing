@@ -32,7 +32,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td></td>
+    <td>24.56</td>
     <td>31.35</td>
    </tr>
     <tr>
@@ -45,7 +45,7 @@
     <td></td>
     <td></td>
     <td></td>
-    <td></td>   
+    <td>0.86</td>   
      <td>0.946</td>
  </tr>
    
