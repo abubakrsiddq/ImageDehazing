@@ -59,7 +59,7 @@
     <td class="gman"></td>
     <td class="gca"></td>
     <td class="FFA"></td>
-    <td class="unet"></td>
+    <td class="unet">0.57</td>
     <td class="novel">0.45</td>
   <tr>
     <td>NQIE &#8595</td>
@@ -71,7 +71,7 @@
     <td class="gman"></td>
     <td class="gca"></td>
     <td class="FFA"></td>
-    <td class="unet"></td>
+    <td class="unet">2.73</td>
     <td class="novel">2.79</td>
    
   </tr>
@@ -86,7 +86,7 @@
     <td class="gman"></td>
     <td class="gca"></td>
     <td class="FFA"></td>
-    <td class="unet"></td>
+    <td class="unet">3.19</td>
     <td class="novel">3.27</td>
   </tr>
   <tr>
@@ -99,7 +99,7 @@
     <td class="gman"></td>
     <td class="gca"></td>
     <td class="FFA"></td>
-    <td class="unet"></td>
+    <td class="unet">8.88</td>
     <td class="novel">11.86</td>
   </tr>
  </table>
