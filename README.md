@@ -24,83 +24,83 @@
   </tr>
    <tr>
     <td>PSNR &#8593</td>
-      <td>15.66</td>
-    <td>18.32</td>
+      <td class="hazy">15.66</td>
+    <td class="lca">18.32</td>
+    <td class="dehazenet"></td>
     <td></td>
-    <td></td>
-    <td>16.65</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>24.56</td>
-    <td>31.35</td>
+    <td class="dcp">16.65</td>
+    <td class="gman"></td>
+    <td class="gca"></td>
+    <td class="FFA"></td>
+    <td class="unet">24.56</td>
+    <td class="novel">31.35</td>
    </tr>
     <tr>
     <td>SSIM &#8593</td>
-       <td>0.7349</td>
-    <td>0.69</td>
+         <td class="hazy">0.73</td>
+    <td class="lca">0.69</td>
+    <td class="dehazenet"></td>
     <td></td>
-    <td></td>
-    <td>0.618</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>0.86</td>   
-     <td>0.946</td>
+    <td class="dcp">0.62</td>
+    <td class="gman"></td>
+    <td class="gca"></td>
+    <td class="FFA"></td>
+    <td class="unet">0.86</td>
+    <td class="novel">0.95</td>
  </tr>
    
   <tr>
    <td>FADE &#8595</td>
-             <td>1.1211</td>
-    <td>0.6348</td>
+     <td class="hazy">1.12</td>
+    <td class="lca">0.63</td>
+    <td class="dehazenet"></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-   <td>0.4545</td>
-  </tr>
+    <td class="dcp">0.36</td>
+    <td class="gman"></td>
+    <td class="gca"></td>
+    <td class="FFA"></td>
+    <td class="unet"></td>
+    <td class="novel">0.45</td>
   <tr>
     <td>NQIE &#8595</td>
-             <td>2.75</td>
-    <td>4.36</td>
+     <td class="hazy">2.75</td>
+    <td class="lca">4.36</td>
+    <td class="dehazenet"></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-   <td>2.79</td>
+    <td class="dcp">2.53</td>
+    <td class="gman"></td>
+    <td class="gca"></td>
+    <td class="FFA"></td>
+    <td class="unet"></td>
+    <td class="novel">2.79</td>
+   
   </tr>
   
   <tr>
     <td>CEIQ &#8593</td>
-             <td>3.143</td>
-    <td>3.021</td>
+     <td class="hazy">3.14</td>
+    <td class="lca">3.02</td>
+    <td class="dehazenet"></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-   <td>3.268</td>
+    <td class="dcp">2.77</td>
+    <td class="gman"></td>
+    <td class="gca"></td>
+    <td class="FFA"></td>
+    <td class="unet"></td>
+    <td class="novel">3.27</td>
   </tr>
   <tr>
     <td>BLIINDS2 &#8595</td>
-             <td>6.23</td>
-    <td>40.8</td>
+        <td class="hazy">6.23</td>
+    <td class="lca">40.80</td>
+    <td class="dehazenet"></td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-   <td>11.859</td>
+    <td class="dcp">21.87</td>
+    <td class="gman"></td>
+    <td class="gca"></td>
+    <td class="FFA"></td>
+    <td class="unet"></td>
+    <td class="novel">11.86</td>
   </tr>
  </table>
  
