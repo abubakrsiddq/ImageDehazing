@@ -29,8 +29,8 @@
     <td class="dehazenet"></td>
     <td></td>
     <td class="dcp">16.65</td>
-    <td class="gman"></td>
-    <td class="gca">24.64</td>
+    <td class="gman">24.64</td>
+    <td class="gca"></td>
     <td class="FFA"></td>
     <td class="unet">24.56</td>
     <td class="novel">31.35</td>
