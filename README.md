@@ -11,12 +11,12 @@
   <th>Metrics</th>
   <th><a >Hazy</a></th>
    <th><a href="models/LCA-net">LCA</a></th>
-    <th><a href="models/DeHazenet">DehazeNet(40)</a></th>
+    <th><a href="models/DeHazenet">DehazeNet</a></th>
     <th><a href="models/dehazenet_attention">Dhz_Att</a></th>
     <th><a href="models/DCP">DCP</a></th>
     <th><a href="models/GMAN_net">GMAN</a></th>
-    <th><a href="models/GCA-net">GCA(30)</a></th>
-    <th><a href="models/FFA-net">FFA(10)</a></th>
+    <th><a href="models/GCA-net">GCA</a></th>
+    <th><a href="models/FFA-net">FFA</a></th>
     <th><a href="models/unet">U-net</a></th>
   <th><a href="models/novel">Novel</a></th>
   
@@ -30,7 +30,7 @@
     <td></td>
     <td class="dcp">16.65</td>
     <td class="gman"></td>
-    <td class="gca"></td>
+    <td class="gca">24.64</td>
     <td class="FFA"></td>
     <td class="unet">24.56</td>
     <td class="novel">31.35</td>
@@ -42,7 +42,7 @@
     <td class="dehazenet"></td>
     <td></td>
     <td class="dcp">0.62</td>
-    <td class="gman"></td>
+    <td class="gman">0.89</td>
     <td class="gca"></td>
     <td class="FFA"></td>
     <td class="unet">0.86</td>
@@ -56,7 +56,7 @@
     <td class="dehazenet"></td>
     <td></td>
     <td class="dcp">0.36</td>
-    <td class="gman"></td>
+    <td class="gman">0.43</td>
     <td class="gca"></td>
     <td class="FFA"></td>
     <td class="unet">0.57</td>
@@ -68,7 +68,7 @@
     <td class="dehazenet"></td>
     <td></td>
     <td class="dcp">2.53</td>
-    <td class="gman"></td>
+    <td class="gman">3.09</td>
     <td class="gca"></td>
     <td class="FFA"></td>
     <td class="unet">2.73</td>
@@ -83,7 +83,7 @@
     <td class="dehazenet"></td>
     <td></td>
     <td class="dcp">2.77</td>
-    <td class="gman"></td>
+    <td class="gman">3.23</td>
     <td class="gca"></td>
     <td class="FFA"></td>
     <td class="unet">3.19</td>
@@ -96,7 +96,7 @@
     <td class="dehazenet"></td>
     <td></td>
     <td class="dcp">21.87</td>
-    <td class="gman"></td>
+    <td class="gman">16.13</td>
     <td class="gca"></td>
     <td class="FFA"></td>
     <td class="unet">8.88</td>
