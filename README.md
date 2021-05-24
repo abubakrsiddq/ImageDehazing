@@ -53,7 +53,7 @@
     <td class="dehazenet"></td>
         <td class="dcp">0.36</td>
     <td class="gman">0.43</td>
-    <td class="gca"></td>
+    <td class="gca">0.41</td>
     <td class="FFA"></td>
     <td class="unet">0.57</td>
     <td class="novel">0.45</td>
@@ -64,7 +64,7 @@
     <td class="dehazenet"></td>
         <td class="dcp">2.53</td>
     <td class="gman">3.09</td>
-    <td class="gca"></td>
+    <td class="gca">3.21</td>
     <td class="FFA"></td>
     <td class="unet">2.73</td>
     <td class="novel">2.79</td>
@@ -78,7 +78,7 @@
     <td class="dehazenet"></td>
        <td class="dcp">2.77</td>
     <td class="gman">3.23</td>
-    <td class="gca"></td>
+    <td class="gca">3.11</td>
     <td class="FFA"></td>
     <td class="unet">3.19</td>
     <td class="novel">3.27</td>
@@ -90,7 +90,7 @@
     <td class="dehazenet"></td>
       <td class="dcp">21.87</td>
     <td class="gman">16.13</td>
-    <td class="gca"></td>
+    <td class="gca">3.97</td>
     <td class="FFA"></td>
     <td class="unet">8.88</td>
     <td class="novel">11.86</td>
