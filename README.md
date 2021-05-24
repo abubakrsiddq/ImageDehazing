@@ -12,8 +12,7 @@
   <th><a >Hazy</a></th>
    <th><a href="models/LCA-net">LCA</a></th>
     <th><a href="models/DeHazenet">DehazeNet</a></th>
-    <th><a href="models/dehazenet_attention">Dhz_Att</a></th>
-    <th><a href="models/DCP">DCP</a></th>
+       <th><a href="models/DCP">DCP</a></th>
     <th><a href="models/GMAN_net">GMAN</a></th>
     <th><a href="models/GCA-net">GCA</a></th>
     <th><a href="models/FFA-net">FFA</a></th>
@@ -27,10 +26,9 @@
       <td class="hazy">15.66</td>
     <td class="lca">18.32</td>
     <td class="dehazenet"></td>
-    <td></td>
-    <td class="dcp">16.65</td>
+       <td class="dcp">16.65</td>
     <td class="gman">24.64</td>
-    <td class="gca"></td>
+    <td class="gca">22.94</td>
     <td class="FFA"></td>
     <td class="unet">24.56</td>
     <td class="novel">31.35</td>
@@ -40,10 +38,9 @@
          <td class="hazy">0.73</td>
     <td class="lca">0.69</td>
     <td class="dehazenet"></td>
-    <td></td>
-    <td class="dcp">0.62</td>
+        <td class="dcp">0.62</td>
     <td class="gman">0.89</td>
-    <td class="gca"></td>
+    <td class="gca">0.90</td>
     <td class="FFA"></td>
     <td class="unet">0.86</td>
     <td class="novel">0.95</td>
@@ -54,8 +51,7 @@
      <td class="hazy">1.12</td>
     <td class="lca">0.63</td>
     <td class="dehazenet"></td>
-    <td></td>
-    <td class="dcp">0.36</td>
+        <td class="dcp">0.36</td>
     <td class="gman">0.43</td>
     <td class="gca"></td>
     <td class="FFA"></td>
@@ -66,8 +62,7 @@
      <td class="hazy">2.75</td>
     <td class="lca">4.36</td>
     <td class="dehazenet"></td>
-    <td></td>
-    <td class="dcp">2.53</td>
+        <td class="dcp">2.53</td>
     <td class="gman">3.09</td>
     <td class="gca"></td>
     <td class="FFA"></td>
@@ -81,8 +76,7 @@
      <td class="hazy">3.14</td>
     <td class="lca">3.02</td>
     <td class="dehazenet"></td>
-    <td></td>
-    <td class="dcp">2.77</td>
+       <td class="dcp">2.77</td>
     <td class="gman">3.23</td>
     <td class="gca"></td>
     <td class="FFA"></td>
@@ -94,8 +88,7 @@
         <td class="hazy">6.23</td>
     <td class="lca">40.80</td>
     <td class="dehazenet"></td>
-    <td></td>
-    <td class="dcp">21.87</td>
+      <td class="dcp">21.87</td>
     <td class="gman">16.13</td>
     <td class="gca"></td>
     <td class="FFA"></td>
