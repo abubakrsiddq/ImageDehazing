@@ -1,16 +1,4 @@
 # Resources for project
-
-* [SuperResolution](https://arxiv.org/pdf/1707.02921.pdf)
-* [Deep Retinex](https://arxiv.org/pdf/1808.04560v1.pdf)
-* [Atmospheric Scattering](https://core.ac.uk/download/pdf/55631247.pdf)
-
-* [Multi-Stage Progressive Image Restoration](https://arxiv.org/pdf/2102.02808v2.pdf)
-* [CycleISP: Real Image Restoration via Improved Data Synthesis](https://arxiv.org/pdf/2003.07761v1.pdf)
-
-
-
-* [Dehaze image restoartion](https://sci-hub.se/10.23919/apsipa.2018.8659733)
-* [multi layer fusion](https://openaccess.thecvf.com/content_ICCV_2019/papers/Deng_Deep_Multi-Model_Fusion_for_Single-Image_Dehazing_ICCV_2019_paper.pdf)
 ### Conventional dehazing
 * [Color Attention Prior](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7128396)
 * [Dark channel Prior](https://sci-hub.se/10.1109/CVPR.2009.5206515)
@@ -39,4 +27,17 @@
 * [GMAN](https://arxiv.org/pdf/1810.02862.pdf)
 * [FFA](./ffa.pdf)
 * [GCA](https://arxiv.org/pdf/1811.08747v2.pdf)
-* 
+* [BPP](./bpp.pdf)
+* [Unet](https://ieeexplore.ieee.org/document/9190725)
+* [Desmoke](./desmoke.pdf)
+* [You only look yourself](https://arxiv.org/abs/2006.16829)
+* [Branched Estimation](./branchedEst.pdf)
+
+### Helper models
+* [SuperResolution](https://arxiv.org/pdf/1707.02921.pdf)
+* [Deep Retinex](https://arxiv.org/pdf/1808.04560v1.pdf)
+* [Atmospheric Scattering](https://core.ac.uk/download/pdf/55631247.pdf)
+* [Multi-Stage Progressive Image Restoration](https://arxiv.org/pdf/2102.02808v2.pdf)
+* [CycleISP: Real Image Restoration via Improved Data Synthesis](https://arxiv.org/pdf/2003.07761v1.pdf)
+* [Dehaze image restoartion](https://sci-hub.se/10.23919/apsipa.2018.8659733)
+* [multi layer fusion](https://openaccess.thecvf.com/content_ICCV_2019/papers/Deng_Deep_Multi-Model_Fusion_for_Single-Image_Dehazing_ICCV_2019_paper.pdf)
