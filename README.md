@@ -13,14 +13,14 @@
  <tr>
   <th>Metrics</th>
   <th><a >Hazy</a></th>
-   <th><a href="models/LCA-net">LCA</a></th>
-    <th><a href="models/DeHazenet">DehazeNet</a></th>
-       <th><a href="models/DCP">DCP</a></th>
-    <th><a href="models/GMAN_net">GMAN</a></th>
-    <th><a href="models/GCA-net">GCA</a></th>
-    <th><a href="models/FFA-net">FFA</a></th>
-    <th><a href="models/unet">U-net</a></th>
-  <th><a href="models/novel">Novel</a></th>
+   <th><a>LCA</a></th>
+    <th><a>DehazeNet</a></th>
+       <th><a >DCP</a></th>
+    <th><a >GMAN</a></th>
+    <th><a >GCA</a></th>
+    <th><a >FFA</a></th>
+    <th><a >U-net</a></th>
+  <th><a >Novel</a></th>
   
   
   </tr>
